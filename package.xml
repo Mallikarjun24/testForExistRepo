@@ -6,4 +6,10 @@
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
     </types>
+    <types>
+        <members>standard__Platform</members>
+        <members>standard__Sales</members>
+        <members>standard__Service</members>
+        <name>CustomApplication</name>
+    </types>
 </Package>
