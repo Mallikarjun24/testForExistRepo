@@ -15,6 +15,7 @@
     <types>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
+        <members>Goal.OrigGoalId__c</members>
         <name>CustomField</name>
     </types>
 </Package>
