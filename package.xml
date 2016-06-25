@@ -12,4 +12,9 @@
         <members>standard__Service</members>
         <name>CustomApplication</name>
     </types>
+    <types>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <name>CustomField</name>
+    </types>
 </Package>
