@@ -18,4 +18,10 @@
         <members>Goal.OrigGoalId__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Case.AllOpenCases</members>
+        <members>Case.MyCases</members>
+        <members>Case.MyOpenCases</members>
+        <name>ListView</name>
+    </types>
 </Package>
