@@ -7,6 +7,8 @@
         <name>AssignmentRule</name>
     </types>
     <types>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
         <members>standard__Platform</members>
         <members>standard__Sales</members>
         <members>standard__Service</members>
@@ -20,6 +22,8 @@
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>Lead.ProductInterest__c</members>
+        <members>Lead.SICCode__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <name>CustomField</name>
     </types>
