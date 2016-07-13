@@ -55,6 +55,11 @@
         <members>Custom%3A Marketing Profile</members>
         <members>Custom%3A Sales Profile</members>
         <members>Custom%3A Support Profile</members>
+        <members>Customer Community Login User</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Account.Billing</members>
+        <name>WebLink</name>
     </types>
 </Package>
